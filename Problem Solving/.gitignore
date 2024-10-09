@@ -42,3 +42,15 @@ CMakeLists.txt.user
 *.pro.user.*
 *.qmake.stash
 *.qmake.cache
+
+# Others 
+
+* .vcxproj
+* .tlog
+* .ilk
+* .log
+* .obj
+* .idb
+* .pdb
+* .vcxproj.filters
+* .vcxproj.user
