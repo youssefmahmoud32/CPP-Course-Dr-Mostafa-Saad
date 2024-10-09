@@ -1,0 +1,44 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executable files
+*.exe
+*.out
+
+# Temporary files and directories
+*.log
+*.tmp
+*.swp
+*.bak
+*.d
+
+# Build directories
+/build/
+/bin/
+/Debug/
+/Release/
+
+# IDE-specific files (if you're using an IDE)
+# For Visual Studio
+.vscode/
+*.vcxproj
+*.sln
+*.sdf
+*.ipch
+*.db
+*.opendb
+
+# For Code::Blocks
+*.layout
+
+# For CLion or CMake
+.cmake/
+CMakeLists.txt.user
+.idea/
+
+# For Qt Creator
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+*.qmake.cache
